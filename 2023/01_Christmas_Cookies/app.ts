@@ -1,3 +1,4 @@
+// Day 1: Christmas Cookies
 // https://typehero.dev/challenge/day-1
 
 import { Expect, Equal } from 'type-testing';
